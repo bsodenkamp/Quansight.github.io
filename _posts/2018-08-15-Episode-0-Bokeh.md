@@ -141,18 +141,18 @@ have, even if they are not on the roadmap.
 
 ---
 
-Q. Is Bokeh a Numfocus sponsored project?
+**Q.** Is Bokeh a Numfocus sponsored project?
 
-A. Yes, it has been on their mind for a long time, but for awhile all the development
+**A.** Yes, it has been on their mind for a long time, but for awhile all the development
 happened by developers who were in Continuum or Anaconda. Eventually Numfocus was
 able to get enough different people together to form the Bokeh committee and they
 had wanted to do that for a long time.
 
 ---
 
-Q. Does Bokeh still need a seperate server for streaming data, or is it now integrated into the notebook?
+**Q.** Does Bokeh still need a seperate server for streaming data, or is it now integrated into the notebook?
 
-A. First, you can now run Bokeh server applications directly in the notebook. So you do not need
+**A.** First, you can now run Bokeh server applications directly in the notebook. So you do not need
 to run the Bokeh server yourself, it will just attach itself to the Jupyter IO loop and run
 itself automatically.  Making a Bokeh server application in the notebook and running it will
 allow you to bypass the seperate server.  You can also use stream with push notebook because
