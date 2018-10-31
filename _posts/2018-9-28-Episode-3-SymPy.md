@@ -30,7 +30,7 @@ These contributers are mostly from the Scientific Python world.  Most people who
 
 ### Demo
 
-The demo functionality is available on [the website] (http://live.sympy.org)
+The demo functionality is available on [the website](http://live.sympy.org)
 
 ### Roadmap Items  
 
