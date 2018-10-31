@@ -28,7 +28,7 @@ The project started with Pierre, but Carlos was the first contributor. He had us
 
 ### Demo
 
-You can find the information from the demo on the [Spyder website here] (http://www.spyder-ide.org)
+You can find the information from the demo on the [Spyder website here](http://www.spyder-ide.org)
 
 ### Roadmap
 
@@ -91,6 +91,6 @@ Now we will move into the question and answer session.
 ### Footnotes & Links
 
 * For us to have a sustainable model to promote this and other projects, it is a great help to have time or finances contributed to supporting projects like Spyder.
-* To see the current roadmap visit [Quanisight's website] (http://www.quansight.com/projects)
-* [Spyder’s new website] (http://www.spyder-ide.org)
-* Thanks for watching, and you can find the [Spyder roadmap here] (http://www.quansight.com/projects)
+* To see the current roadmap visit [Quanisight's website](http://www.quansight.com/projects)
+* [Spyder’s new website](http://www.spyder-ide.org)
+* Thanks for watching, and you can find the [Spyder roadmap here](http://www.quansight.com/projects)
